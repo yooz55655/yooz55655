@@ -2,8 +2,9 @@
 
 ## 💌 关于我
 - ✨ 私宅二次元、男娘爱好者
-- ✨ 半瓶水、爱折腾OpenWrt
-- ✨ 致力于鼠鼠们可以有效应对校园网
+- ✨ 半瓶水
+- ✨ 折腾OpenWrt
+- ✨ 死磕校园网
 
 ---
 
@@ -12,11 +13,6 @@
 
 ## 🌸 我喜欢的语言
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yooz55655&layout=compact&theme=merko)
-
----
-
-## 💫 我的 GitHub 连续贡献天数
-![](https://github-readme-streak-stats.herokuapp.com/?user=yooz55655&theme=tokyonight)
 
 ---
 
