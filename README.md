@@ -15,15 +15,8 @@
 
 ---
 
-## 🌟 动态效果
-![snake gif](https://github.com/yooz55655/yooz55655/blob/output/github-snake.svg)
-
 ## 💫 我的 GitHub 连续贡献天数
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yooz55655&theme=tokyonight)
-
-## 🐍 动态蛇蛇图
-![snake gif](https://github.com/yooz55655/yooz55655/blob/output/github-snake.svg)
-
 
 ---
 
