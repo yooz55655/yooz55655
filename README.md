@@ -19,9 +19,6 @@ https://github.com/yooz55655/Campus-Net-Savior
 ## 📊 我的 GitHub 统计
 ![](https://github-readme-stats.vercel.app/api?username=yooz55655&show_icons=true&theme=merko)
 
-## 🌸 我喜欢的语言
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yooz55655&layout=compact&theme=merko)
-
 ---
 
 ## 📱 社交媒体
