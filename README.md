@@ -7,6 +7,11 @@
 - ✨ 折腾OpenWrt
 - ✨ 死磕校园网
 
+- ✨ 在用的机场订阅
+https://xstars.lol/#/register?code=12vsbmcR
+- ✨ 在用的Clash客户端
+https://github.com/chen08209/FlClash
+
 ---
 
 ## 📊 我的 GitHub 统计
