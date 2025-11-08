@@ -19,6 +19,11 @@ https://github.com/yooz55655/Campus-Net-Savior
 ## 📊 我的 GitHub 统计
 ![](https://github-readme-stats.vercel.app/api?username=yooz55655&show_icons=true&theme=merko)
 
+![Stars](https://img.shields.io/github/stars/yooz55655/yooz55655?style=social)
+![Forks](https://img.shields.io/github/forks/yooz55655/yooz55655?style=social)
+![Watchers](https://img.shields.io/github/watchers/yooz55655/yooz55655?style=social)
+![Open Issues](https://img.shields.io/github/issues/yooz55655/yooz55655)
+
 ---
 
 <!--
