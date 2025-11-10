@@ -3,7 +3,7 @@
 ## 💌 关于我
 - ✨ 私宅二次元、半瓶水
 - ✨ 电子信息工程/电气工程及其自动化
-- ✨ 折腾OpenWrt、死磕校园网
+- ✨ OpenWrt/iStoreOS用户
 - ✨ 在用的机场订阅
 https://xstars.lol/#/register?code=12vsbmcR
 - ✨ 在用的Clash客户端
