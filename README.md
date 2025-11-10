@@ -11,8 +11,8 @@ https://github.com/chen08209/FlClash
 
 ---
 我的项目
-- 🚀 [校园网焚绝]
-https://github.com/yooz55655/Campus-Net-Savior
+- 🚀 [校园网焚绝] https://github.com/yooz55655/Campus-Net-Savior
+- 🚀 [OpenWrt编译固件/插件] https://github.com/yooz55655/yooz55655/tree/main/OpenWrt
 
 ---
 
