@@ -16,13 +16,18 @@ https://github.com/chen08209/FlClash
 
 ---
 
-## 📊 我的 GitHub 统计
-![](https://github-readme-stats.vercel.app/api?username=yooz55655&show_icons=true&theme=merko)
+## 📊 我的GitHub统计
+<!-- 基础统计卡片（含图标、主题） -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yooz55655&show_icons=true&icon_color=00ff9d&text_color=ffffff&bg_color=171717&hide_border=true&count_private=true&token=你的PAT)
 
-![Stars](https://img.shields.io/github/stars/yooz55655/yooz55655?style=social)
-![Forks](https://img.shields.io/github/forks/yooz55655/yooz55655?style=social)
-![Watchers](https://img.shields.io/github/watchers/yooz55655/yooz55655?style=social)
-![Open Issues](https://img.shields.io/github/issues/yooz55655/yooz55655)
+<!-- 语言使用统计卡片 -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yooz55655&layout=compact&text_color=ffffff&bg_color=171717&hide_border=true&token=你的PAT)
+
+## 📈 提交记录趋势
+<!-- 提交日历热力图 -->
+![Commit Calendar](https://github-readme-activity-graph.vercel.app/graph?username=yooz55655&bg_color=171717&color=00ff9d&line=00ff9d&point=ffffff&area_color=171717&area=true&hide_border=true&token=你的PAT)
+
+
 
 ---
 
