@@ -20,8 +20,6 @@ https://github.com/chen08209/FlClash
 <!-- 基础统计卡片（含图标、主题） -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yooz55655&show_icons=true&icon_color=00ff9d&text_color=ffffff&bg_color=171717&hide_border=true&count_private=true&token=你的PAT)
 
-<!-- 语言使用统计卡片 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yooz55655&layout=compact&text_color=ffffff&bg_color=171717&hide_border=true&token=你的PAT)
 
 ## 📈 提交记录趋势
 <!-- 提交日历热力图 -->
@@ -50,9 +48,9 @@ https://github.com/chen08209/FlClash
 ⣻⣻⣻⣻⣻⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣻⣻⣻⣻⣻
 ⣻⣻⣻⣻⣻⣻⣻⣻⣻⣷⣶⣶⣶⣶⣶⣾⣻⣻⣻⣻⣻⣻⣻⣻⣻
 
-             _____
-　　　　　／＞　　  フ
-　　　　　|  　_　 _ l
+            
+　　　　　／＞————— フ
+　　　　　|  　_　 _|
 　 　　　／` ミ＿꒳ノ
 　　 　 /　　　 　 |
 　　　 /　 ヽ　　 ﾉ
